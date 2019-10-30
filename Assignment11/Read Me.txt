@@ -1,0 +1,9 @@
+Memory Verse Program
+1.Choose your level of difficulty
+2.Choose the verse you desire to practice
+3.Fill in the blanks with the missing words in order
+4.To check your answers press the check button
+5.The incorrect words will be highlighted with red
+6.The correct words will be highlighted with green
+7.Reset will delete everything and allow you to start over
+8.Back buttons will take you to the previous menu
